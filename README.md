@@ -6,8 +6,9 @@
 ### This repository contains the download page for my electronic game "Eco Race." The page was developed using HTML5, CSS3, and JavaScript, providing an interactive and engaging experience for users.
 
 # Screenshots:
-<img src="https://github.com/user-attachments/assets/f72f2a59-2344-40de-80d9-30f48918551d" alt="Mobile Example" width="600" />  
-<img src="https://github.com/user-attachments/assets/44d9e347-507c-4d20-896c-4f49006e6291" alt="Google Pixelbook Example" width="600" />
+<img src="https://github.com/user-attachments/assets/380d4596-6fe4-4d9a-8f9b-9d761712df6f" alt="Celular" width="auto" height="250" />  
+<img src="https://github.com/user-attachments/assets/2ffffe2d-771a-4580-bd85-3dc0691f338b" alt="Tablet" width="auto" height="250"/>  
+<img src="https://github.com/user-attachments/assets/f526ffbc-ed51-4ecb-93f8-d202b037ebb9" alt="PC" width="auto" height="250" />
 
 
 # Link to the page:
