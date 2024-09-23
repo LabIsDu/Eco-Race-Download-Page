@@ -6,9 +6,9 @@
 ### This repository contains the download page for my electronic game "Eco Race." The page was developed using HTML5, CSS3, and JavaScript, providing an interactive and engaging experience for users.
 
 # Screenshots:
-| ![iPhone 11 Mockup](https://github.com/user-attachments/assets/f72f2a59-2344-40de-80d9-30f48918551d) | ![Modern Browser Mockup (4)](https://github.com/user-attachments/assets/c5bec2c8-d86c-417c-b44b-24a386e1c88a) |
-|:-----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
-| Mobile example                                                                                     | Modern Browser example                                                                                     |
+<img src="https://github.com/user-attachments/assets/f72f2a59-2344-40de-80d9-30f48918551d" alt="Mobile Example" width="600" />  
+<img src="https://github.com/user-attachments/assets/44d9e347-507c-4d20-896c-4f49006e6291" alt="Google Pixelbook Example" width="600" />
+
 
 # Link to the page:
 [Visit the Eco Race Download Page](https://ecoracedownload.netlify.app/)
